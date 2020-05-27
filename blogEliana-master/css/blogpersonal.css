@@ -1,0 +1,61 @@
+body {
+	border: 20px solid #F0B27A;
+	padding: 20px;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+	font-family: Quicksand;
+    background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-026.jpg");
+}
+
+.presentacion{
+	border-left: 5px solid #F0B27A;
+	padding-left: 5px;
+}
+
+.fecha{
+	color: #707B7C;
+	text-transform: uppercase;
+	letter-spacing: 6px;
+}
+
+.post {
+	margin-bottom: 30px;
+}
+
+h2 {
+	color: #424949;
+	text-transform: uppercase;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.barralateral{
+	position: fixed;
+	right: 0;
+	top: 200px;
+	z-index: 2000;
+}
+
+.barralateral ul{
+	list-style: none;
+}
+
+.barralateral ul li a{
+	display: inline-block;
+	color: #fff;
+	background: #000;
+	padding: 10px 15px;
+	text-decoration: none;
+}
+
+.barralateral ul li .icon-facebook2 {background: #3b5998}
+.barralateral ul li .icon-twitter {background: #00abf0}
+.barralateral ul li .icon-instagram {background: #C2185B}
+.barralateral ul li .icon-linkedin2 {background: #1F618D}
+
+
